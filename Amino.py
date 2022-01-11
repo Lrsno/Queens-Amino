@@ -38,7 +38,7 @@ print("error...!")
 if hackko == "jh1nfnf0efjk3bcs04bfwp3f" :
     input ("beginning: ")
     import os
-    os.system("termux-open-url https://n9.cl/pdjcy")    
+    os.system("termux-open-url https://n9.cl/7okui")    
     input ("Are you done: ")
     print("2000..")
     print("4000..")
